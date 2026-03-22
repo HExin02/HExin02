@@ -6,23 +6,13 @@
 </p>
 
 <p align="center">
-  <!-- QQ 邮箱 (点击直接发邮件) -->
-  <a href="mailto:1194549325@qq.com">
-    <img src="https://img.shields.io/badge/Email-1194549325@qq.com-D14836?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Email" />
+  <!-- 163 邮箱 (带有网易 Logo，点击会调用邮件客户端) -->
+  <a href="mailto:liuwenxin0203@163.com">
+    <img src="https://img.shields.io/badge/Email-liuwenxin0203@163.com-E60012?style=flat-square&logo=netease&logoColor=white" alt="163 Email" />
   </a>
   
-  <!-- 微信 (微信不支持网页直接点击跳转加好友，所以这里只做纯展示，请把“你的微信号”换成实际号码) -->
-  <img src="https://img.shields.io/badge/WeChat-你的微信号-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
-  
-  <!-- 脉脉 (开源图标库里没有脉脉的logo，所以这里用脉脉的官方蓝底白字代替，请替换 href 里的链接) -->
-  <a href="这里换成你的脉脉个人主页分享链接">
-    <img src="https://img.shields.io/badge/脉脉-lwx-1A62E5?style=flat-square" alt="Maimai" />
-  </a>
-
-  <!-- 技术社区：知乎 (可选！作为后端开发，放一个技术社区链接非常加分，如果没有可以删掉这段) -->
-  <a href="这里换成你的知乎或掘金主页链接">
-    <img src="https://img.shields.io/badge/Zhihu-lwx-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" />
-  </a>
+  <!-- 微信 (纯展示，请把“你的微信号”这几个字换成你真实的微信号) -->
+  <img src="https://img.shields.io/badge/WeChat-aqr-Dawn0203-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
 <br/>
