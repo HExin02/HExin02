@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm lwx</h1>
 
+<p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
+    <strong>I am now interested in LLM&&agent develop，keep learning.</strong>
+</p>
 
 <p align="center">
   <!-- 已经合并为一句话，并添加了 &repeat=false 停止循环 -->
@@ -7,13 +11,9 @@
 </p>
 
 <p align="center">
-  <!-- 163 邮箱：带有网易 Logo -->
-  <a href="mailto:liuwenxin0203@163.com">
-    <img src="https://img.shields.io/badge/Email-liuwenxin0203@163.com-E60012?style=flat-square&logo=netease&logoColor=white" alt="163 Email" />
-  </a>
-  <!-- 微信：已修复横杠 404 问题 -->
-  <img src="https://img.shields.io/badge/WeChat-aqr--Dawn0203-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
-  
+  <a href="mailto:liuwenxin0203@163.com"><img src="https://img.shields.io/badge/Email-liuwenxin0203@163.com-E60012?style=flat-square&logo=mail.ru&logoColor=white" alt="163 Email"></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/QQ-1194549325-12B7F5?style=flat-square&logo=QQ&logoColor=white&v=3" alt="QQ">&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/WeChat-aqr--Dawn0203-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat">
 </p>
 
 ---
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,maven,python,fastapi,mysql,redis,mongodb,rabbitmq,kafka,docker,kubernetes,linux,nginx,git&perline=20" />
 </p>
 
-**🤖 AI **
+**🤖 AI**
 <p align="left">
   <!-- CV 与深度学习基础 -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -39,20 +39,23 @@
 
 ---
 
-### 🏆 Achievements & Stats
 
-<<p align="center">
-  <!-- 替换掉挂掉的奖杯，改用活动的曲线图，展示近期的代码活力 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HExin02&theme=tokyonight&area=true&hide_border=true" width="100%" alt="activity graph" />
+<h3 align="center">📊 GitHub Analysis</h3>
+
+<p align="center">
+  <!-- 1. 波形图：统一为 tokyonight 主题，与下方对齐 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HExin02&theme=tokyonight&area=true&hide_border=true&v=10" width="100%" alt="activity graph" />
 </p>
 
 <p align="center">
-  <!-- 基本统计：强制高度 165 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=true&hide=rank,stars" width="48%" height="165" />
-  <!-- 语言统计：强制高度 165 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="165" />
+  <!-- 2. 基本统计：强制高度 160，隐藏 Rank 显得更高级 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=false&hide=rank,stars" width="48.5%" height="170"/>
+  &nbsp;
+  <!-- 3. 语言统计：强制高度 160，与左侧完美对齐 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=false&langs_count=5" width="48.5%" height="170" />
 </p>
+
 <p align="center">
-  <!-- 贪吃蛇动画：增加主页动态感 -->
-  <img src="https://raw.githubusercontent.com/HExin02/HExin02/output/github-contribution-grid-snake.svg" alt="snake" />
+  <!-- 4. 贪吃蛇动画：居中处理 -->
+  <img src="https://raw.githubusercontent.com/HExin02/HExin02/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
