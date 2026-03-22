@@ -49,10 +49,10 @@
 
 <p align="center">
   <!-- 2. 基本统计：强制高度 160，隐藏 Rank 显得更高级 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=false&hide=rank,stars" width="48.5%" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=false&hide=rank,stars" width="48.5%" height="160"/>
   &nbsp;
   <!-- 3. 语言统计：强制高度 160，与左侧完美对齐 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=false&langs_count=5" width="48.5%" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=false&langs_count=5" width="48.5%" height="160" />
 </p>
 
 <p align="center">
