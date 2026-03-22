@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8959D4D2&background=BF6EFF0A&center=true&vCenter=true&random=true&width=600&lines=Hi%2C+I+am+lwx.+)](https://git.io/typing-svg)
