@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+John+Doe!+👋;A+Passionate+Frontend+Developer;Always+learning+new+tech..." alt="Typing SVG" />
+</p>
