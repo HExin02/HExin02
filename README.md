@@ -14,7 +14,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,mysql,mongodb,git,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,redis,git,docker,llm&perline=10" />
 </p>
 
 <br/>
@@ -26,4 +26,18 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&hide_border=true" width="98.5%" />
+</p>
+
+### 📫 How to reach me
+
+<p align="left">
+  <a href="mailto:你的邮箱@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="你的博客或推特链接">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="你的掘金或知乎链接">
+    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
+  </a>
 </p>
