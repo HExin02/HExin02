@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <!-- 163 邮箱 (带有网易 Logo，点击会调用邮件客户端) -->
+  <!-- 163 邮箱 -->
   <a href="mailto:liuwenxin0203@163.com">
     <img src="https://img.shields.io/badge/Email-liuwenxin0203@163.com-E60012?style=flat-square&logo=netease&logoColor=white" alt="163 Email" />
   </a>
   
-  <!-- 微信 (纯展示，请把“你的微信号”这几个字换成你真实的微信号) -->
-  <img src="https://img.shields.io/badge/WeChat-aqr-Dawn0203-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
+  <!-- 微信 -->
+  <img src="https://img.shields.io/badge/WeChat-aqr--Dawn0203-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
 <br/>
