@@ -33,8 +33,8 @@
   <!-- 大模型与 Vibe 风格 -->
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Vibe Coding" />
-  <img src="https://img.shields.io/badge/LLM%20Eng-3178C6?style=flat-square&logo=probot&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=flat-square&logo=replit&logoColor=white" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/LLM-3178C6?style=flat-square&logo=probot&logoColor=white" alt="LLM" />
 </p>
 
 ---
