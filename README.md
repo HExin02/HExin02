@@ -43,17 +43,17 @@
 
 <p align="center">
   <!-- GitHub 奖杯：展示成就勋章 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_NAME&theme=tokyonight&column=7&no-bg=true" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HExin02&theme=tokyonight&column=7&no-bg=true" alt="github trophies" />
 </p>
 
 <p align="center">
   <!-- 基本统计：隐藏了 Rank 和 Stars，显得更干练 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true&theme=tokyonight&hide_border=true&hide=rank,stars" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=true&hide=rank,stars" width="48%" />
   <!-- 语言统计：展示你的技术组成 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <!-- 贪吃蛇动画：增加主页动态感 -->
-  <img src="https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/HExin02/HExin02/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
