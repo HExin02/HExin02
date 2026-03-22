@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm lwx</h1>
 
 <p align="center">
-  <!-- 使用了 Fira Code 字体，带动态打字效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=🎓+Final-year+Master's+Student;💻+Passionate+Backend+Developer;🌆+Soon+to+be+working+in+Shanghai" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Talk+is+cheap,+show+me+the+code;Building+things+for+the+web" alt="Typing SVG" />
+  <!-- 已经将 Emoji 和单引号进行了 URL 编码，解决无法显示的问题 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Final-year+Master%27s+Student;%F0%9F%92%BB+Passionate+Backend+Developer;%F0%9F%8C%86+Soon+to+be+working+in+Shanghai" alt="Typing SVG" />
 </p>
 
 <p align="center">
