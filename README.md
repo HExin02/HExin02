@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm lwx</h1>
 
 <p align="center">
-  <!-- 已经将 Emoji 和单引号进行了 URL 编码，解决无法显示的问题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Final-year+Master%27s+Student;%F0%9F%92%BB+Passionate+Backend+Developer;%F0%9F%8C%86+Soon+to+be+working+in+Shanghai" alt="Typing SVG" />
+  <!-- 已经合并为一句话，并添加了 &repeat=false 停止循环 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=36BCF7&center=true&vCenter=true&width=850&repeat=false&lines=%F0%9F%8E%93+Final-year+Master%27s+Student+%7C+%F0%9F%92%BB+Backend+Developer+%7C+%F0%9F%8C%86+Shanghai+Bound" alt="Typing SVG" />
 </p>
 
 <p align="center">
