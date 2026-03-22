@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm lwx</h1>
 
-<h3 align="center">
-  🎓 Final-year Master's Student &nbsp;|&nbsp; 💻 Backend Developer
-</h3>
-
 <p align="center">
-  <em>🚀 Soon to be working in Shanghai</em>
+  <!-- 使用了 Fira Code 字体，带动态打字效果 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=🎓+Final-year+Master's+Student;💻+Passionate+Backend+Developer;🌆+Soon+to+be+working+in+Shanghai" alt="Typing SVG" />
 </p>
 
 <p align="center">
