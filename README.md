@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,maven,python,fastapi,mysql,redis,mongodb,rabbitmq,kafka,docker,kubernetes,linux,nginx,git&perline=20" />
 </p>
 
-**🤖 AI, CV & LLM (Vibe Coding)**
+**🤖 AI **
 <p align="left">
   <!-- CV 与深度学习基础 -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -41,18 +41,17 @@
 
 ### 🏆 Achievements & Stats
 
-<p align="center">
-  <!-- GitHub 奖杯：展示成就勋章 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HExin02&theme=tokyonight&column=7&no-bg=true" alt="github trophies" />
+<<p align="center">
+  <!-- 替换掉挂掉的奖杯，改用活动的曲线图，展示近期的代码活力 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HExin02&theme=tokyonight&area=true&hide_border=true" width="100%" alt="activity graph" />
 </p>
 
 <p align="center">
-  <!-- 基本统计：隐藏了 Rank 和 Stars，显得更干练 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=true&hide=rank,stars" width="48%" />
-  <!-- 语言统计：展示你的技术组成 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- 基本统计：强制高度 165 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HExin02&show_icons=true&theme=tokyonight&hide_border=true&hide=rank,stars" width="48%" height="165" />
+  <!-- 语言统计：强制高度 165 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HExin02&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="165" />
 </p>
-
 <p align="center">
   <!-- 贪吃蛇动画：增加主页动态感 -->
   <img src="https://raw.githubusercontent.com/HExin02/HExin02/output/github-contribution-grid-snake.svg" alt="snake" />
