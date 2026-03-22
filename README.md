@@ -2,7 +2,7 @@
 
 <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>I am now interested in LLM&&agent develop，keep learning.</strong>
+    <strong>I am now interested in LLM&agent developing，keep learning.</strong>
 </p>
 
 <p align="center">
